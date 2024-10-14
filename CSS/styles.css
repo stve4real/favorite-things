@@ -1,0 +1,37 @@
+body{ 
+    background-color: #00f;
+}
+h1{  
+    color: rgb(51, 255, 0);
+    text-align:center;
+    font-style: italic;
+}
+h2{   
+    color: aquamarine;
+    font-style:italic;
+    text-align:center;
+}
+h3{  
+    color:red;
+    font-style: italic;
+    text-align: center;
+    font-size:160%;
+}
+p{  
+    color: greenyellow; 
+    font-family:sans-serif;
+    text-align: center;
+    font-size:100%;
+
+  }
+ul{  
+    font-size:30px;
+    line-height:30px; 
+    color: rgb(71, 0, 0);
+    text-align: center;
+    
+}
+#p3{
+    color: tomato;
+
+}
